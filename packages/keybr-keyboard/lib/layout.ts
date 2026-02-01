@@ -1425,6 +1425,7 @@ export class Layout implements XEnumItem {
     Layout.SV_SE,
     Layout.UK_UA,
     Layout.RU_RU,
+    Layout.RU_STATICA_3X5,
     Layout.TR_TR_Q,
     Layout.TR_TR_F,
     Layout.AR_SA,
