@@ -551,7 +551,7 @@ export class Layout implements XEnumItem {
     /* name= */ "Statica 3x5 (Matrix)",
     /* family= */ "statica",
     /* language= */ Language.RU,
-    /* emulate= */ false,
+    /* emulate= */ true,
     /* geometries= */ new Enum(Geometry.MATRIX),
   );
   static readonly BE_BY = new Layout(
